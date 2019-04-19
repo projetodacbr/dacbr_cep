@@ -77,4 +77,4 @@ Caso queira conhecer melhor o funcionamento da API acesse o site de origem da AP
 
 Por favor para requisições de funcionalidades e bugs [issue tracker][tracker].
 
-[tracker]: https://github.com/mateuspenha/dacbr_cep/issues
+[tracker]: https://github.com/projetodacbr/dacbr_cep/issues
